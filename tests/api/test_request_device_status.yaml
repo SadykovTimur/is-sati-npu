@@ -1,0 +1,4 @@
+name: 'Запрос статуса устройства'
+cmd: 'pytest --alluredir={allure_reports_path} tests/api/test_request_device_status.py'
+steps:
+  - 'Запрос статуса устройства'

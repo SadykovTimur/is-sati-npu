@@ -1,0 +1,4 @@
+name: 'Отправить запрос на сохранение фото с фото'
+cmd: 'pytest --alluredir={allure_reports_path} tests/api/test_request_save_with_photo.py'
+steps:
+  - 'Отправка запроса на сохранение фото с фото'
