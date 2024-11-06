@@ -1,0 +1,4 @@
+name: 'Отправка сообщения с устройства на сервер'
+cmd: 'pytest --alluredir={allure_reports_path} tests/api/test_request_message_server.py'
+steps:
+  - 'Запрос статуса устройства'

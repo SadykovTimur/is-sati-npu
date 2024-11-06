@@ -1,0 +1,4 @@
+name: 'Передача информации о запросе идентификации на мобильное устройство'
+cmd: 'pytest --alluredir={allure_reports_path} tests/api/test_identification_mobile_device.py'
+steps:
+  - 'Передача информации о запросе идентификации на мобильное устройство'
